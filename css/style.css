@@ -228,6 +228,11 @@ footer
 	background-color: green;
 }
 
+.link
+{
+	text-decoration: underline;
+	color : #0000FF;
+}
 
 
 
