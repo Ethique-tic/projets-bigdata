@@ -204,10 +204,22 @@ footer
 	background-color: orange;	
 }
 
-.c
+.pc
 {
 	background-image: none; 
 	background-color: red;
+}
+
+.c
+{
+	background-image: none; 
+	background-color: #800000;
+}
+
+.pp
+{
+	background-image: none; 
+	background-color: lightgreen;
 }
 
 .p
@@ -246,8 +258,10 @@ footer
 #oi2 { transform: rotate(153deg) translate(300px) rotate(40deg) translate(150px) rotate(-40deg) rotate(-153deg); }
 #aso { transform: rotate(204deg) translate(300px) rotate(-204deg); }
 #aso:hover ~ .aso {display: block;}
-#aso0 { transform: rotate(204deg) translate(300px) rotate(20deg) translate(150px) rotate(-20deg) rotate(-204deg); }
-#aso1 { transform: rotate(204deg) translate(300px) rotate(-20deg) translate(150px) rotate(20deg) rotate(-204deg); }
+#aso0 { transform: rotate(204deg) translate(300px) rotate(60deg) translate(150px) rotate(-60deg) rotate(-204deg); }
+#aso1 { transform: rotate(204deg) translate(300px) rotate(20deg) translate(150px) rotate(-20deg) rotate(-204deg); }
+#aso2 { transform: rotate(204deg) translate(300px) rotate(-20deg) translate(150px) rotate(20deg) rotate(-204deg); }
+#aso3 { transform: rotate(204deg) translate(300px) rotate(-60deg) translate(150px) rotate(60deg) rotate(-204deg); }
 #sit { transform: rotate(255deg) translate(300px) rotate(-255deg); }
 #ent { transform: rotate(306deg) translate(300px) rotate(-306deg); }
 #ent:hover ~ .ent {display: block;}
